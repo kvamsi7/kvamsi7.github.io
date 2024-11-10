@@ -1,5 +1,43 @@
 title: Katam Vamsi Krishna 
 logo: /assets/img/28361738.png
+description: "Machine Learning & Deep Learning Specialist | NLP Expert" # Short bio or description
+url: "https://kvamsi7.github.io/"  # Your GitHub Pages URL
 # description: Machine Learning Engineer
-show_downloads: true
-theme: jekyll-theme-minimal
+# show_downloads: true
+# theme: jekyll-theme-minimal
+
+# Social media links
+social_links:
+  github: "https://github.com/kvamsi7"
+  linkedin: "https://www.linkedin.com/in/katam-vamsi-krishna"
+  #twitter: "https://twitter.com/your-twitter"
+  email: "vamsikrishna.katamreddy@gmail.com"  # For contact email
+
+# Personal details (add location and skills here)
+location: "OP,Kansas, USA"    # Your location
+skills:
+  - Python
+  - TensorFlow
+  - PyTorch
+  - NLP
+  - Deep Learning
+  - Machine Learning
+  - SQL
+  - Docker
+  - Kubernetes
+
+# Your profile information
+profile:
+  name: "Katam Vamsi Krishna"
+  title: "Machine Learning & Deep Learning Specialist"
+  avatar: "/assets/img/28361738.png"  # Update with the path to your profile picture
+
+# Social settings
+show_social: true   # Controls visibility of social links
+show_skills: true   # Controls visibility of skills section
+show_location: true # Controls visibility of location
+
+# Other configurations (can remain the same)
+theme: "jekyll-theme-minimal"  # The theme you're using (minima is the default)
+markdown: "kramdown"  # Markdown processor
+highlighter: "rouge"  # Syntax highlighting
