@@ -1,15 +1,13 @@
-# Katam Vamsi Krishna 
-
-## Machine Learning & Deep Learning Specialist | NLP Expert
+# Machine Learning & Deep Learning Specialist | NLP Expert
 
 Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data Scientist** with over **4 years of experience** in building and deploying AI models. I specialize in **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning** technologies. I am passionate about solving real-world problems using AI and continuously learning new techniques and tools in this rapidly evolving field.
 
 ---
 
 ### 📍 **Location**: Kansas, USA  
-### ✉️ **Email**:  [vamsikrishna.katamreddy@gmail.com](mailto:vamsikrishna.katamreddy@gmail.com)    
+<!-- ### ✉️ **Email**:  [vamsikrishna.katamreddy@gmail.com](mailto:vamsikrishna.katamreddy@gmail.com)    
 ### 🔗 **LinkedIn**: [linkedin.com/in/katam-vamsi-krishna](https://www.linkedin.com/in/katam-vamsi-krishna)  
-### 🔗 **GitHub**: [github.com/kvamsi7](https://github.com/kvamsi7/)
+### 🔗 **GitHub**: [github.com/kvamsi7](https://github.com/kvamsi7/) -->
 
 ---
 
@@ -105,14 +103,19 @@ A Convolutional Neural Network (**CNN**) for **image classification** tasks, ide
 
 ---
 
-## 📬 **Contact Me**
+## 🌐 **Connect with me**
 
 Feel free to reach out to me for collaborations, job opportunities, or any AI-related discussions!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- **GitHub**: [github.com/your-github](https://github.com/your-github)
-
+<a href="https://github.com/kvamsi7" target="_blank">
+  <i class="fab fa-github"></i>
+</a>
+<a href="https://www.linkedin.com/in/katam-vamsi-krishna" target="_blank">
+  <i class="fab fa-linkedin"></i>
+</a>
+<a href="vamsikrishna.katamreddy@gmail.com">
+  <i class="fas fa-envelope"></i>
+</a>
 ---
 
 © 2024 **Your Name**. All rights reserved.
