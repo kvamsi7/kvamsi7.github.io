@@ -107,15 +107,9 @@ A Convolutional Neural Network (**CNN**) for **image classification** tasks, ide
 
 Feel free to reach out to me for collaborations, job opportunities, or any AI-related discussions!
 
-<a href="https://github.com/kvamsi7" target="_blank">
-  <i class="fab fa-github"></i>
-</a>
-<a href="https://www.linkedin.com/in/katam-vamsi-krishna" target="_blank">
-  <i class="fab fa-linkedin"></i>
-</a>
-<a href="vamsikrishna.katamreddy@gmail.com">
-  <i class="fas fa-envelope"></i>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kvamsi7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katam-vamsi-krishna)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](vamsikrishna.katamreddy@gmail.com)
 
 
 © 2024 **Your Name**. All rights reserved.
