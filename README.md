@@ -116,6 +116,6 @@ Feel free to reach out to me for collaborations, job opportunities, or any AI-re
 <a href="vamsikrishna.katamreddy@gmail.com">
   <i class="fas fa-envelope"></i>
 </a>
----
+
 
 © 2024 **Your Name**. All rights reserved.
