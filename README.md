@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data Scientist** with over **4 years of experience** in building and deploying AI models. I specialize in **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning** technologies. I am passionate about solving real-world problems using AI and continuously learning new techniques and tools in this rapidly evolving field.
 
-![Profile Picture](https://your-image-link.com)  <!-- Replace with your actual image URL -->
+![Profile Picture](https://github.com/kvamsi7/kvamsi7.github.io/blob/main/assets/img/28361738.png)  <!-- Replace with your actual image URL -->
 
 ---
 
