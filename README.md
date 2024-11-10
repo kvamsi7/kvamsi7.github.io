@@ -4,12 +4,14 @@
 
 Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data Scientist** with over **4 years of experience** in building and deploying AI models. I specialize in **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning** technologies. I am passionate about solving real-world problems using AI and continuously learning new techniques and tools in this rapidly evolving field.
 
+![Profile Picture](https://your-image-link.com)  <!-- Replace with your actual image URL -->
+
 ---
 
 ### 📍 **Location**: Kansas, USA  
-### ✉️ **Email**: [vamsikrishna.katamreddy@gmail.com](mailto:vamsikrishna.katamreddy@gmail.com)  
-### 🔗 **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/katam-vamsi-krishna)  
-### 🔗 **GitHub**: [github.com/your-github](https://github.com/kvamsi7/kvamsi7.github.io/)
+### ✉️ **Email**:  [vamsikrishna.katamreddy@gmail.com](mailto:vamsikrishna.katamreddy@gmail.com)    
+### 🔗 **LinkedIn**: [linkedin.com/in/katam-vamsi-krishna](https://www.linkedin.com/in/katam-vamsi-krishna)  
+### 🔗 **GitHub**: [github.com/kvamsi7](https://github.com/kvamsi7/)
 
 ---
 
