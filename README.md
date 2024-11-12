@@ -1,4 +1,6 @@
-# Machine Learning & Deep Learning Specialist | NLP Expert
+# Machine Learning & NLP Engineer
+
+## 🚀 **About Me**
 
 Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data Scientist** with over **4 years of experience** in building and deploying AI models. I specialize in **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning** technologies. I am passionate about solving real-world problems using AI and continuously learning new techniques and tools in this rapidly evolving field.
 
@@ -10,10 +12,6 @@ Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data S
 ### 🔗 **GitHub**: [github.com/kvamsi7](https://github.com/kvamsi7/) -->
 
 ---
-
-## 🚀 **About Me**
-
-I am an experienced AI professional with a focus on deep learning, machine learning, and natural language processing (NLP). Over the last 4 years, I have worked with various companies and clients to build AI-driven solutions. I am skilled in deploying models to production, working with large datasets, and integrating ML models with real-world applications.
 
 My key areas of expertise include:
 - **Deep Learning** (using TensorFlow, PyTorch)
