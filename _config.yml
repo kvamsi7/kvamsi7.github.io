@@ -14,7 +14,7 @@ social_links:
   email: "vamsikrishna.katamreddy@gmail.com"  # For contact email
 
 # Personal details (add location and skills here)
-location: "OP,Kansas, USA"    # Your location
+location: "Kansas, USA"    # Your location
 skills:
   - Python
   - TensorFlow
