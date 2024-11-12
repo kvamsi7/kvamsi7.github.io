@@ -59,31 +59,58 @@ My key areas of expertise include:
 
 ---
 
-## 💻 **Selected Projects**
+## 💻 Selected Projects
 
-### [Sentiment Analysis with BERT](https://github.com/your-username/sentiment-analysis-bert)
-A **sentiment analysis** model using **BERT** for classifying reviews as positive or negative. This project showcases fine-tuning and using **transformer-based models** for NLP tasks.
+---
 
-- Technologies: **Python**, **TensorFlow**, **Hugging Face Transformers**
-- Features:
-  - Fine-tuned BERT model on a custom sentiment dataset
-  - Integrated with Flask for serving the model API
+### **1. Chain of Thought (CoT) in LLMs – Paper Implementation**
 
-### [Named Entity Recognition (NER) with spaCy](https://github.com/your-username/ner-spacy)
-A **Named Entity Recognition** (NER) pipeline using **spaCy** for identifying entities such as organizations, dates, and locations in unstructured text.
+This project replicates the work on **Chain of Thought (CoT)** reasoning in **Large Language Models (LLMs)**. The implementation of CoT allows the LLMs to perform better on complex reasoning tasks without requiring multi-shot learning.
 
-- Technologies: **Python**, **spaCy**, **Machine Learning**
-- Features:
-  - Trained spaCy’s pre-built models on custom NER data
-  - Deployed as a RESTful API using **Flask**
+- **Technologies**: Python, Hugging Face Transformers, Deep Learning
+- **Features**:
+  - Implemented **zero-shot** CoT reasoning for LLMs
+  - Demonstrated improvements in model scaling and performance across various datasets
+  - Replicated results from the "Large Language Models are Zero-Shot Reasoners" paper by leveraging chain-of-thought reasoning
 
-### [Image Classification with CNN](https://github.com/your-username/cnn-image-classification)
-A Convolutional Neural Network (**CNN**) for **image classification** tasks, identifying and classifying objects in images.
 
-- Technologies: **Python**, **TensorFlow**, **Keras**
-- Features:
-  - Built a deep CNN model for classifying images into predefined categories
-  - Used **data augmentation** to improve model performance
+---
+
+### **2. Sentiment Analysis using BERT**
+
+A sentiment analysis model built with **BERT (Bidirectional Encoder Representations from Transformers)** for classifying text (e.g., product reviews) as either positive or negative. This project demonstrates fine-tuning transformer-based models for NLP tasks.
+
+- **Technologies**: Python, TensorFlow, Hugging Face Transformers
+- **Features**:
+  - Fine-tuned a pre-trained BERT model on a custom sentiment dataset
+  - Used **Hugging Face Transformers** for efficient model training and deployment
+  - Deployed the model via a **Flask API** for easy integration with web apps
+
+---
+
+### **3. Machine Translation using Autoencoder and Decoder**
+
+A sequence-to-sequence model for machine translation using an **autoencoder architecture** with an encoder-decoder approach for translating text from one language to another.
+
+- **Technologies**: Python, TensorFlow, Keras, NLP, Neural Networks
+- **Features**:
+  - Built an encoder-decoder architecture for sequence translation
+  - Trained on parallel corpora for multilingual text translation
+  - Implemented attention mechanism for improved performance in longer sequences
+
+
+---
+
+### **4. Accessing Credit Risk using Machine Learning**
+
+A machine learning model that predicts whether a customer’s profile is **risky** or **safe** based on financial data. The model evaluates risk factors such as credit history, loan amount, and payment history.
+
+- **Technologies**: Python, scikit-learn, pandas, Machine Learning
+- **Features**:
+  - Utilized classification algorithms (e.g., Logistic Regression, Random Forest) for risk classification
+  - Trained and validated on a real-world financial dataset
+  - Deployed the model as a **web app** (Link to the deployed version: [Credit Risk Web App](https://your-app-link.com))
+---
 
 ---
 
