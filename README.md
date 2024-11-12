@@ -109,7 +109,7 @@ A machine learning model that predicts whether a customer’s profile is **risky
 - **Features**:
   - Utilized classification algorithms (e.g., Logistic Regression, Random Forest) for risk classification
   - Trained and validated on a real-world financial dataset
-  - Deployed the model as a **web app** (Link to the deployed version: [Credit Risk Web App](https://your-app-link.com))
+  - Deployed the model as a **web app** (Link to the deployed version: [Credit Risk Web App](http://ec2-3-140-255-188.us-east-2.compute.amazonaws.com:5002/?)
 ---
 
 ---
