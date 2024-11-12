@@ -52,7 +52,7 @@ My key areas of expertise include:
   - **Machine Learning**: scikit-learn, XGBoost, LightGBM
   - **NLP**: BERT, GPT-3, spaCy, NLTK, TextBlob
 - **Tools & Platforms**: 
-  - AWS, Docker, Kubernetes, Git, Jupyter Notebooks, Visual Studio Code
+  - AWS, Docker, Kubernetes, Git, Jupyter Notebooks, Visual Studio Code,Perforce
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
 - **Model Deployment**: Flask, FastAPI, Docker, Kubernetes
 - **Databases**: MySQL, MongoDB, Neo4j
