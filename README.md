@@ -27,19 +27,21 @@ My key areas of expertise include:
 
 ## 💼 **Experience**
 
-### Machine Learning Engineer | **Company Name**  
-**January 2020 - Present**
-- Developed and deployed deep learning models for NLP applications, such as **text classification**, **sentiment analysis**, and **language translation**.
-- Built **data pipelines** for preprocessing and feature extraction on large datasets.
-- Worked with state-of-the-art frameworks like **PyTorch**, **TensorFlow**, and **Hugging Face Transformers**.
-- Collaborated with cross-functional teams to integrate ML models into production and optimize performance.
+### Senior Engineer| NLP | **Samsung Research Institute-Bangalore (SRI-B)**  
+**December 2021 - July 2023**
+- Developed new framework for the games promotion and better user experience in the Conversational Voice assistant **Bixby**.
+- Enhanced **data pipelines** for preprocessing and feature extraction and were able to acheive 5% increase in better user experience.
+- Implented POCs for ML and DL research enhancements in the existing architecture of the chat assistant such as integration of LLMs, sentiment enhancement techniques.
+- Worked with state-of-the-art frameworks like **PyTorch**, **TensorFlow**, and **Hugging Face Transformers** as part of research ideation.
+- Increased the code quality and maintained the sloc metrics of 95% and above.
+- Collaborated with cross-functional teams such as CC,ASR,TTS and Linguistics to integrate Bixbychat models into production and optimize performance.
 
-### Data Scientist | **Another Company**  
-**June 2018 - December 2019**
-- Built predictive models for **customer behavior analysis** and **recommendation systems**.
+### ML Engineer | **Wipro Technologies**  
+**June 2019 - November 2021**
+- Built predictive models for **Ticket management and automatic routing** and developed and presented the POC.
 - Worked on **NLP tasks** such as **named entity recognition (NER)** and **topic modeling**.
 - Implemented **data visualization** solutions using **Matplotlib**, **Seaborn**, and **Plotly**.
-
+- Developed the script to automate the report generation and list out any backlogs or immediate backlog tickets.
 ---
 
 ## ⚙️ **Skills**
@@ -47,13 +49,13 @@ My key areas of expertise include:
 - **Programming Languages**: Python, R, SQL
 - **Libraries & Frameworks**: 
   - **Deep Learning**: TensorFlow, PyTorch, Keras, Hugging Face, FastAPI
-  - **Machine Learning**: scikit-learn, XGBoost, LightGBM, OpenCV
+  - **Machine Learning**: scikit-learn, XGBoost, LightGBM
   - **NLP**: BERT, GPT-3, spaCy, NLTK, TextBlob
 - **Tools & Platforms**: 
-  - AWS, GCP, Docker, Kubernetes, Git, Jupyter Notebooks, Visual Studio Code
+  - AWS, Docker, Kubernetes, Git, Jupyter Notebooks, Visual Studio Code
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
 - **Model Deployment**: Flask, FastAPI, Docker, Kubernetes
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Databases**: MySQL, MongoDB, Neo4j
 
 ---
 
@@ -87,19 +89,19 @@ A Convolutional Neural Network (**CNN**) for **image classification** tasks, ide
 
 ## 🧠 **Education**
 
-- **Master’s in Computer Science** (Focus on Machine Learning & AI)  
-  University Name | Graduation Year
+- **Master’s in Computer Science** (Focus on Data Science & AI/ML)  
+  University of Central Missouri | 2025
 - **Bachelor’s in Information Technology**  
-  University Name | Graduation Year
+  Jawaharlal Nehru Technological University Anantapur | 2019
 
 ---
 
 ## 📝 **Certifications**
 
 - **Deep Learning Specialization** (Coursera - Andrew Ng)
-- **Applied Data Science with Python** (Coursera - University of Michigan)
-- **TensorFlow Developer Certificate** (Google)
-- **AWS Certified Machine Learning – Specialty**
+- **Applied Data Science and Machine Learning with Python Excellence** (Coding Ninjas)
+- **Natural Language Processing** (Udacity)
+- **Data Structure and Algorithms Excellence** (Coding Ninjas)
 
 ---
 
