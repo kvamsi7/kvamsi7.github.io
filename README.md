@@ -6,20 +6,13 @@ Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data S
 
 ---
 
-### 📍 **Location**: Kansas, USA  
-<!-- ### ✉️ **Email**:  [vamsikrishna.katamreddy@gmail.com](mailto:vamsikrishna.katamreddy@gmail.com)    
-### 🔗 **LinkedIn**: [linkedin.com/in/katam-vamsi-krishna](https://www.linkedin.com/in/katam-vamsi-krishna)  
-### 🔗 **GitHub**: [github.com/kvamsi7](https://github.com/kvamsi7/) -->
-
----
-
 My key areas of expertise include:
 - **Deep Learning** (using TensorFlow, PyTorch)
-- **NLP** (using Hugging Face Transformers, BERT, GPT-3)
+- **NLP** (using Hugging Face Transformers, BERT, GPT-3,LLMs)
 - **Machine Learning** (scikit-learn, XGBoost)
 - **Data Preprocessing & Feature Engineering**
-- **Model Deployment** (AWS, GCP, Docker)
-- **Collaborative Teamwork** and **Agile Development**
+- **Model Deployment** (AWS, Docker)
+- **Data Structures and Algorithms**
 
 ---
 
