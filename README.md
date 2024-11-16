@@ -2,7 +2,11 @@
 
 ## 🚀 **About Me**
 
-Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data Scientist** with over **4 years of experience** in building and deploying AI models. I specialize in **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning** technologies. I am passionate about solving real-world problems using AI and continuously learning new techniques and tools in this rapidly evolving field.
+I am a passionate **Machine Learning Engineer** with **4 years of experience** in developing innovative solutions using **AI**, **predictive modeling**, and **natural language processing (NLP)**. Throughout my career, I have worked on a variety of projects, including **automated ticket routing systems**, **intelligent voice assistants**, and more, helping organizations optimize their processes and improve user experiences.
+
+Currently, I am focused on gaining expertise in **Large Language Models (LLMs)**, exploring their potential to revolutionize AI applications in areas like natural language understanding, generation, and dialogue systems. My goal is to deepen my knowledge of **transformer models** and other cutting-edge techniques, while building scalable, real-world solutions on **cloud platforms** like **AWS**.
+
+I thrive in collaborative, fast-paced environments and am always eager to learn and experiment with new technologies. Feel free to explore my portfolio to see how I have leveraged machine learning to drive impactful results.
 
 ---
 
