@@ -31,7 +31,7 @@ My key areas of expertise include:
 **June 2019 - November 2021**
 - Built predictive models for **ticket management and automated routing**, developing and presenting the POC.  
 - Worked on **NLP tasks**, including **Named Entity Recognition (NER)** and **topic modeling**.  
-- Implemented **data visualization** solutions using **Matplotlib**, **Seaborn**, and **Plotly**.  
+- Implemented **data visualization** solutions using **Matplotlib**, **Seaborn**, and **Plotly** .  
 - Automated report generation scripts to identify and list backlogs or urgent tickets, improving process efficiency.  
 ---
 
