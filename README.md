@@ -1,27 +1,22 @@
-# Machine Learning & Deep Learning Specialist | NLP Expert
-
-Welcome to my GitHub profile! I’m a **Machine Learning Engineer** and **Data Scientist** with over **4 years of experience** in building and deploying AI models. I specialize in **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning** technologies. I am passionate about solving real-world problems using AI and continuously learning new techniques and tools in this rapidly evolving field.
-
----
-
-### 📍 **Location**: Kansas, USA  
-<!-- ### ✉️ **Email**:  [vamsikrishna.katamreddy@gmail.com](mailto:vamsikrishna.katamreddy@gmail.com)    
-### 🔗 **LinkedIn**: [linkedin.com/in/katam-vamsi-krishna](https://www.linkedin.com/in/katam-vamsi-krishna)  
-### 🔗 **GitHub**: [github.com/kvamsi7](https://github.com/kvamsi7/) -->
-
----
+# Machine Learning & NLP Engineer
 
 ## 🚀 **About Me**
 
-I am an experienced AI professional with a focus on deep learning, machine learning, and natural language processing (NLP). Over the last 4 years, I have worked with various companies and clients to build AI-driven solutions. I am skilled in deploying models to production, working with large datasets, and integrating ML models with real-world applications.
+I am a passionate **Machine Learning Engineer** with **4 years of experience** in developing innovative solutions using **AI**, **predictive modeling**, and **natural language processing (NLP)**. Throughout my career, I have worked on a variety of projects, including **automated ticket routing systems**, **intelligent voice assistants**, and more, helping organizations optimize their processes and improve user experiences.
+
+Currently, I am focused on gaining expertise in **Large Language Models (LLMs)**, exploring their potential to revolutionize AI applications in areas like natural language understanding, generation, and dialogue systems. My goal is to deepen my knowledge of **transformer models** and other cutting-edge techniques, while building scalable, real-world solutions on **cloud platforms** like **AWS**.
+
+I thrive in collaborative, fast-paced environments and am always eager to learn and experiment with new technologies. Feel free to explore my portfolio to see how I have leveraged machine learning to drive impactful results.
+
+---
 
 My key areas of expertise include:
 - **Deep Learning** (using TensorFlow, PyTorch)
-- **NLP** (using Hugging Face Transformers, BERT, GPT-3)
+- **NLP** (using Hugging Face Transformers, BERT, GPT-3,LLMs)
 - **Machine Learning** (scikit-learn, XGBoost)
 - **Data Preprocessing & Feature Engineering**
-- **Model Deployment** (AWS, GCP, Docker)
-- **Collaborative Teamwork** and **Agile Development**
+- **Model Deployment** (AWS, Docker)
+- **Data Structures and Algorithms**
 
 ---
 
@@ -38,10 +33,11 @@ My key areas of expertise include:
 
 ### ML Engineer | **Wipro Technologies**  
 **June 2019 - November 2021**
-- Built predictive models for **Ticket management and automatic routing** and developed and presented the POC.
-- Worked on **NLP tasks** such as **named entity recognition (NER)** and **topic modeling**.
-- Implemented **data visualization** solutions using **Matplotlib**, **Seaborn**, and **Plotly**.
-- Developed the script to automate the report generation and list out any backlogs or immediate backlog tickets.
+- Built predictive models for **ticket management and automated routing**, developing and presenting the POC.  
+- Worked on **NLP tasks**, including **Named Entity Recognition (NER)** and **topic modeling**.  
+- Implemented data visualization solutions using Matplotlib, Seaborn, and Plotly.<br>
+- Automated report generation scripts to identify and list backlogs or prioriy tickets, improving process efficiency.
+
 ---
 
 ## ⚙️ **Skills**
@@ -109,8 +105,7 @@ A machine learning model that predicts whether a customer’s profile is **risky
 - **Features**:
   - Utilized classification algorithms (e.g., Logistic Regression, Random Forest) for risk classification
   - Trained and validated on a real-world financial dataset
-  - Deployed the model as a **web app** (Link to the deployed version: [Credit Risk Web App](http://ec2-3-140-255-188.us-east-2.compute.amazonaws.com:5002/?)
----
+  - Deployed the model as a **web app** (Link to the deployed version: [Credit Risk Web App](http://ec2-3-140-255-188.us-east-2.compute.amazonaws.com:5002/?))
 
 ---
 
