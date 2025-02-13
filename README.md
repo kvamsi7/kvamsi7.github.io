@@ -1,4 +1,4 @@
-# Machine Learning & NLP Engineer
+# Machine Learning Engineer 
 
 ## 🚀 **About Me**
 
